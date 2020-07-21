@@ -1,0 +1,26 @@
+{
+  "name": "rest_apis_sequelize",
+  "version": "1.0.0",
+  "description": "node, mysql, controller, model, sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiladwi/NodeSequelize.git"
+  },
+  "author": "wila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiladwi/NodeSequelize/issues"
+  },
+  "homepage": "https://github.com/wiladwi/NodeSequelize#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.3"
+  }
+}
